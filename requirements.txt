@@ -1,0 +1,4 @@
+packaging==26.4
+schedule==1.2.2
+setuptools==84.2.1
+wheel==0.48.0
